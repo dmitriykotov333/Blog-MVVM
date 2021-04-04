@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="SnowEffect">
+        <attr name="elementSpeed" format="float"/>
+        <attr name="elementShowSpeedMillis" format="integer"/>
+        <attr name="elementShowIn"/>
+    </declare-styleable>
+
+    <attr name="elementShowIn">
+        <flag name="background" value="0"/>
+        <flag name="foreground" value="1"/>
+        <flag name="both" value="2"/>
+    </attr>
+
+    <declare-styleable name="LoadingButton">
+        <attr name="buttonText" format="string"/>
+        <attr name="buttonColor" format="color" />
+        <attr name="textColor" format="color" />
+    </declare-styleable>
+
+    <declare-styleable name="ReadableBottomBar">
+        <attr name="rbb_tabs" format="reference" />
+        <attr name="rbb_backgroundColor" format="color" />
+        <attr name="rbb_indicatorColor" format="color" />
+        <attr name="rbb_indicatorHeight" format="dimension" />
+        <attr name="rbb_initialIndex" format="integer" />
+        <attr name="rbb_textColor" format="color" />
+        <attr name="rbb_iconColor" format="color" />
+        <attr name="rbb_textSize" format="dimension" />
+        <attr name="rbb_activeItemType" format="enum">
+            <enum name="text" value="0" />
+            <enum name="icon" value="1" />
+        </attr>
+    </declare-styleable>
+
+    <declare-styleable name="CirclesLoadingView">
+        <attr name="circleRadius" format="dimension" />
+        <attr name="circleMargin" format="dimension" />
+        <attr name="animDistance" format="dimension" />
+        <attr name="animDuration" format="integer" />
+        <attr name="animDelay" format="integer" />
+        <attr name="animInterpolator" format="enum">
+            <enum name="accelerate" value="0"/>
+            <enum name="decelerate" value="1"/>
+            <enum name="accelerateDecelerate" value="2"/>
+            <enum name="anticipate" value="3"/>
+            <enum name="anticipateOvershoot" value="4"/>
+            <enum name="linear" value="5"/>
+            <enum name="overshoot" value="6"/>
+        </attr>
+    </declare-styleable>
+
+</resources>

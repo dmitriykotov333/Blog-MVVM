@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tabs>
+    <tab
+        drawable="@drawable/ic_home_white_24dp"
+        text="@string/home"
+        typeface = "bold"/>
+
+    <tab
+        drawable="@drawable/ic_add_circle_outline_white_24dp"
+        text="@string/create"
+        typeface = "bold"/>
+
+    <tab
+        drawable="@drawable/ic_account_circle_white_24dp"
+        text="@string/account"
+        typeface = "bold"/>
+</tabs>
