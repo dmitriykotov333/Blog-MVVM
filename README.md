@@ -1,5 +1,5 @@
 # Blog-MVVM
-
+<img src="https://github.com/dmitriykotov333/deveem/blob/master/preview.gif" width="336" align="right" hspace="20">
 - ### Coroutines
 - ### Navigation Components
 - ### Bottom Navigation View with fragments
@@ -22,6 +22,3 @@
    - #### Handling Different Screen Sizes (ConstraintLayout)
    - #### Material Dialogs
    - #### Fragment transition animations
-
- <img src="https://github.com/dmitriykotov333/deveem/blob/master/preview.gif">
- 
