@@ -23,4 +23,4 @@
    - #### Material Dialogs
    - #### Fragment transition animations
 
-<img src="http://kotdev.inf.ua/images/projects/preview.gif" />
+<img src="http://kotdev.inf.ua/images/projects/preview.gif"/>
