@@ -1,5 +1,4 @@
 # Blog-MVVM
-<img src="http://kotdev.inf.ua/images/projects/preview.gif" align="right" hspace="20">
 
 - ### Coroutines
 - ### Navigation Components
@@ -23,3 +22,5 @@
    - #### Handling Different Screen Sizes (ConstraintLayout)
    - #### Material Dialogs
    - #### Fragment transition animations
+
+<img src="http://kotdev.inf.ua/images/projects/preview.gif" />
