@@ -1,5 +1,5 @@
 # Blog-MVVM
-<img src="https://github.com/dmitriykotov333/deveem/blob/master/preview.gif" align="right" hspace="20">
+<img src="http://kotdev.inf.ua/images/projects/preview.gif" align="right" hspace="20">
 
 - ### Coroutines
 - ### Navigation Components
