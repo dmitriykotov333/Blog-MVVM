@@ -22,5 +22,3 @@
    - #### Handling Different Screen Sizes (ConstraintLayout)
    - #### Material Dialogs
    - #### Fragment transition animations
-
-PREVIEW http://kotdev.inf.ua/images/projects/preview.gif
